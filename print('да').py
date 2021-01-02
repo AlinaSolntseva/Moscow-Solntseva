@@ -1,2 +1,2 @@
 print('да')
-print('lf ,kznm')
+print('а что это такое')
